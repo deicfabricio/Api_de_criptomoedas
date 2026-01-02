@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <b></b>
+    <b>O projeto esta responsivo e consome dados em tempo real das criptomoedas, exibindo informações de forma clara e dinâmica. Foi uma ótima oportunidade para reforçar conceitos de integração com APIs, tipagem com TypeScript e estruturação de aplicações front-end.</b>
 </p>
 
 <p align="center">
